@@ -1,6 +1,6 @@
 # Goerli dApp List
 
-This repository exists to track known applications that support Goerli. 
+This repository exists to track known applications that support Goerli. Please make pull requests to have your dApp added to the list.
 
 ## 0x Exchange
 
